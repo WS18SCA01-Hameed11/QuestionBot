@@ -32,20 +32,6 @@ struct MyQuestionAnswerer {
         
     }
     
-//    mutating func responseTo(question: String) -> String {
-//        // TODO: Write a response
-//
-//        let lowerQuestion: String = question.lowercased();
-//        allQuestions.append(lowerQuestion)
-//
-//
-//
-//            if allQuestions.contains(lowerQuestion) {
-//                return "You already asked that."
-//            }
-//
-//
-//    }
     
     
 
